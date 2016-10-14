@@ -5766,4 +5766,10 @@ button.close {
   .hidden-print {
     display: none !important; } }
 
+li.completed {
+  text-decoration: line-through; }
+
+.margin-right-10 {
+  margin-right: 10px; }
+
 /*# sourceMappingURL=app.css.map */
